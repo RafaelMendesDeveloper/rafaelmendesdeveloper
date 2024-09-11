@@ -1,6 +1,6 @@
 ### Hello, I'm Rafael Mendes 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on a new project with my IFSC friends
 - 📫 How to reach me: rafael.mendes.negocios@gmail.com
 - 😄 Pronouns: He/Him
